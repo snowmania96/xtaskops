@@ -88,7 +88,3 @@ Recommended: alias `cargo xtask` to `x`:
 # in your zshrc/shell rcfile
 alias x="cargo xtask"
 ```
-
-# Copyright
-
-Copyright (c) 2022 [@jondot](http://twitter.com/jondot). See [LICENSE](LICENSE.txt) for further details.
